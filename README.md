@@ -2,6 +2,4 @@
 
 # Documentation
 
-This bot is written in python using *discord.py*
-
-test
+This bot is written in python using `discord.py`
